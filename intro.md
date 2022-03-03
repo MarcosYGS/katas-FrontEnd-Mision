@@ -1,4 +1,4 @@
-#intro fronter
+# intro fronter
 Empezaremos con la parte del FrontEnd, en donde verás toda la magia de las interfaces, las interacciones y todo lo increíble que puedes construir con un teclado y unas cuantas líneas de código.
 
 En este módulo veremos las siguientes Katas:
